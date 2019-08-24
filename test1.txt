@@ -6,3 +6,5 @@ dddd
 edit branch
 edit master
 ediit merge
+second edit by dev
+next edit by master
