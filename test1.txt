@@ -5,3 +5,4 @@ cccc
 dddd
 edit branch
 edit master
+ediit merge
